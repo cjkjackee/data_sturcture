@@ -2,5 +2,5 @@
 
 link list
 +	circular list
-	*	current-">"link==first
+	*	current->link==first
 
