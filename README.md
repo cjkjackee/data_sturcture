@@ -1,2 +1,6 @@
 # data_sturcture
-資料結構
+
+link list
++	circular list
+	*	current-">"link==first
+
