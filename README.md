@@ -53,6 +53,16 @@ binary search tree
 	3.	delete
 	+	當root被delete，可把right subtree裏最小的號碼放去root，因爲，right subtree中最小的號碼一定大於left subtree，小於right subtree;或可以選擇left subtree中最大的號碼，原理同上。
 
+forest
+-	實做是以array的方式,arr[n]:n=node,arr[n]=parent
+
+equivalence classes
+-	實做
+	+	有n個polygons，m個relation
+	+	開個n的array;
+	+	根據每個relation，如：0=4，更換arr[0]=4 or arr[4]=0 (把其中一人的root更改)
+	+	cost：m×cost（find）
+
 # Heap
 類似tree，但是以array實做，不用考慮pointer
 
