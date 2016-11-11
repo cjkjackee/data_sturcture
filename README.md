@@ -53,9 +53,6 @@ binary search tree
 	3.	delete
 	+	當root被delete，可把right subtree裏最小的號碼放去root，因爲，right subtree中最小的號碼一定大於left subtree，小於right subtree;或可以選擇left subtree中最大的號碼，原理同上。
 
-forest
--	實做是以array的方式,arr[n]:n=node,arr[n]=parent
-
 equivalence classes
 -	實做
 	+	有n個polygons，m個relation
@@ -79,4 +76,9 @@ max heap
 	3.	找出最大的號碼放在parent。
 	4.	重復直到root
 -	適用於需要管理權限的東西（根據權限做max heap）
+
+# forest
+-	多顆tree
+-	實做是以array的方式,arr[n] //n==node,arr[n]==parent
+-	如果有n個Union，m個Find：find要花m^2
 
