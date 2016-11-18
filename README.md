@@ -82,3 +82,28 @@ max heap
 -	實做是以array的方式,arr[n] //n==node,arr[n]==parent
 -	如果有n個Union，m個Find：find要花m^2
 
+# hash function
+overflow handling
+-	一個hash table 上有兩個h（k）指到同一個slot，overflow
+-	open addressing：
+	+	linear probing：當h（k）不是空的，（h(k)+i）%2 找到下一個空的位置，如果不是空的，再多一次
+	+	quadratic probing：當h（k）不是空的，（h(k)+(i^2)）%2找下一個空的位置，如果不是空的，再多一次
+
+# sorting
+-	interpolation search： comparing k with a[i]
+- insertion sort：
+	+	最好的情況：多加一個號碼，他是最大的，結束。
+	+	最壞的情況：加多一個號碼，他是最小的，要把所有東西往後移一格，再insert，花費n //n=多少element
+-	binary insertion sort
+	+	以binary search 來找
+-	linked insertion sort
+	+	以link list 來做，只要找到位置，直接insert，不用移動其他的
+
+# quick sort
+-	低期望值
+-	實做：
+	+	一個array，以其中一個值當pivot
+	+	當*it<pivot，it++
+	+	當*it>pivot, end_it<pivot ,it<=end_it, end_it<=it;
+	+	做完之後pivot放去中間
+	+	再做<pivot的，和>pivot的
