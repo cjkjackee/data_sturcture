@@ -107,3 +107,23 @@ overflow handling
 	+	當*it>pivot, end_it<pivot ,it<=end_it, end_it<=it;
 	+	做完之後pivot放去中間
 	+	再做<pivot的，和>pivot的
+
+# weight-biased leftist tree
+-	rightmost（x）<= log(w(x)+1)
+
+#	double ended priority queue
+-	實作：symmetric min-max heap（SMMH）
+-	SMMH is a complete binary tree
+-	root不用，所以需要n+1個node for n個element
+-	N = any node of SMMH
+-	element（N）= subtree of N （不包含N）
+	-	left child of N has the minimum element in element（N）
+	-	right child of N has the maximum element in element（N）
+-	fact 1: element of each node <= right sibling
+-	fact 2: if N has a grandparent, left child of grandparent <= N
+-	fact 3: if N has a grandparent, right child of grandparent >= N
+-	insertion
+	-	insert new node in ended of array
+	-	check the fact 1,2,3 and swap if needed
+-	deletion
+ 	-	
