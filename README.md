@@ -126,4 +126,39 @@ overflow handling
 	-	insert new node in ended of array
 	-	check the fact 1,2,3 and swap if needed
 -	deletion
- 	-	
+ 	-
+# AVL tree
+### balance factor
+-	balance factor = height（left subtree）-height（right subtree）
+### rebalance rotation
+-	4 kinds
+	-	LL
+	-	RR
+	-	LR
+	-	RL
+-	LL && RR are symmetric , LR && RL are symmetric
+-	LL:新node在左子樹的左子樹
+-	LR:新node在左子樹的右子樹
+-	RL：新node在右子樹的左子樹
+-	RR:新node在右子樹的右子樹
+
+### 2-3-4tree
+-	insertion
+	-	insert a node
+	-	if after insertion the child is more then 4 sperate the parent node
+-	deletion
+	-	if after deletion the child less then 2, fusse the parent with the sibling
+-	if have a comand " I D I D I D ..." at a same node in a 2-3 tree will cost nlog(n) to balance the tree ,but this will not happen in 2-3-4 tree
+-	spliting
+	-	delete the parent
+	-	if the parent of parent is 3,4 done
+	-	if is 2 borought from the sibling
+
+### graph
+-	can solve the real world problem
+-	graph G consist
+	-	V vertices
+	-	E set of edges
+-	|v| = n = number of vertice
+-	|E| = m = number of edge
+
