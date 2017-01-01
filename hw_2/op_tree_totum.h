@@ -123,186 +123,16 @@ void op_tree_totum::insertion(int s){
 void op_tree_totum::deletion(int s){
 	//TODO: fill in the code to do the deletion of the node with number s
 	node *now = root;
-	node *target, *parent;
+	node *target , *parent;
 	bool del = false;
 	
 	while (1)
-	{   
-		if (s == root->number)
+	{  
+		if (s == now->number)
 		{
-			node *target = root;
-
-			if (root->left==head)
-			{
-				now = root->right;
-				root = now;
-				while (now->is_threadl==0)
-					now = now->left;
-				now->left = head;
-
-				delete target;
-				num -= 1;
-				return;
-			}
-			else if (root->right == tail)
-			{
-				now = root->left;
-				root = now;
-				while (now->is_threadr==0)
-					now = now->right;
-				now->right = tail;
-
-				delete target;
-				num -= 1;
-				return;	
-			}
-			else
-			{
-				while(now->is_threadl==0)
-					now = now->left;
-				node *now_parent = now->right;
-				now_parent->left = head;
-
-				root->number = now->number;
-
-				delete now;
-				num -= 1;
-				return;
-			}
-		}
-		else if (now->left->number == s && now->is_threadl==0)
-		{
-			parent = now;
-			target = now->left;
-
-			if (target->is_threadr && target->is_threadl)
-			{
-				now->left = target->left;
-				now->is_threadl = target->is_threadl;
-			}
-			else if (target->is_threadr && target->is_threadl==0)
-			{
-				now = target->left;
-
-				parent->left = now;
-				while(now->is_threadr==0)
-					now = now->right;
-				now->right = target->right;
-				now->is_threadr = target->is_threadr;
-			}
-			else if (target->is_threadl && target->is_threadr==0)
-			{
-				now = target->right;
-
-				parent->left = now;
-				while (now->is_threadl==0)
-					now = now->left;
-				now->left = target->left;
-				now->is_threadl = target->is_threadl;
-			}
-			else if (target->is_threadr==0 && target->is_threadl==0)
-			{
-				now = target->left;
-				while (1)
-				{
-					bool is_right = false;
-					while(now->is_threadr==0)
-					{
-						is_right = true;
-						now = now->right;
-					}
-
-					target->number = now->number;
-					target = now;
-					if (now->is_threadl && is_right)
-					{
-						parent = now->left;
-						parent->right = now->right;
-						parent->is_threadr = now->is_threadr;
-						break;
-					}
-					else if (now->is_threadl && !is_right)
-					{
-						parent = now->right;
-						parent->left = now->left;
-						parent->is_threadl = now->is_threadl;
-						break;
-					}
-					else 
-						now = target->left;
-				}
-			}
-
-			delete target;
-			num -= 1;
-			return;
-		}
-		else if (now->right->number == s && now->is_threadr == 0)
-		{
-			parent = now;
-			target = now->right;
-
-			if (target->is_threadr && target->is_threadl)
-			{
-				parent->right = target->right;
-				parent->is_threadr = target->is_threadr;
-			}
-			else if (target->is_threadr && target->is_threadl==0)
-			{
-				now = target->left;
-
-				parent->right = now;
-				while(now->is_threadr==0)
-					now = now->right;
-				now->right = target->right;
-				now->is_threadr = target->is_threadr;
-			}
-			else if (target->is_threadl && target->is_threadr==0)
-			{
-				now = target->right;
-
-				parent->right = now;
-				while (now->is_threadl==0)
-					now = now->left;
-				now->left = target->left;
-				now->is_threadl = now->is_threadl;
-			}
-			else if (target->is_threadr==0 && target->is_threadl==0)
-			{
-				now = target->left;
-				while (1)
-				{
-					bool is_right = false;
-					while(now->is_threadr==0)
-					{
-						is_right = true;
-						now = now->right;
-					}
-
-					target->number = now->number;
-					target = now;
-					if (now->is_threadl && is_right)
-					{
-						parent = now->left;
-						parent->right = now->right;
-						parent->is_threadr = now->is_threadr;
-						break;
-					}
-					else if (now->is_threadl && !is_right)
-					{
-						parent = now->right;
-						parent->left = now->left;
-						parent->is_threadl = now->is_threadl;
-						break;
-					}
-					else 
-						now = target->left;
-				}
-			}
-
-			delete target;
-			num -= 1;
-			return;	
+			target = now;
+			del = true;
+			break;
 		}
 		else if (s<now->number && now->is_threadl==0)
 			now = now->left;
@@ -310,6 +140,68 @@ void op_tree_totum::deletion(int s){
 			now = now->right;
 		else
 			break;
+	}
+
+	if (del)
+	{
+		while(1)
+		{
+			if (target->is_threadr==0 || target->is_threadl==0)
+			{
+				if (target->is_threadl==1)
+				{
+					now = now->right;
+					while(now->is_threadl==0)
+						now = now->left;
+				}
+				else 
+				{
+					now = target->left;
+					while(now->is_threadr==0)
+						now = now->right;
+				}
+				
+				target->number = now->number;
+				target = now;
+			}
+			else if (target->is_threadr==1 && target->is_threadl==1)
+			{
+				if (target->left == head)
+				{
+					parent = target->right;
+					parent->left = head;
+					parent->is_threadl = target->is_threadl;
+				}
+				else if (target->right == tail)
+				{
+					parent = target->left;
+					parent->right = tail;
+					parent->is_threadr = target->is_threadr;	
+				}
+				else 
+				{
+					if (target->left->right == target)
+					{
+						parent = target->left;
+
+						parent->right = target->right;
+						parent->is_threadr = target->is_threadr;
+					}
+					else if (target->right->left == target)
+					{
+						parent = target->right;
+
+						parent->left = target->left;
+						parent->is_threadl = target->is_threadl;
+					}
+				}
+				break;
+			}
+		}
+
+		num -= 1;
+		delete target;
+		return;
 	}
 }
 
