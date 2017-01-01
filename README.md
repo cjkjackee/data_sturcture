@@ -162,3 +162,12 @@ overflow handling
 -	|v| = n = number of vertice
 -	|E| = m = number of edge
 
+# minimum spanning tree
+-	greedy approach
+-	kruskal's algorithm
+	-	if graph is connected, need n-1 edges to connect the vertices in the graph
+	-	not select the cycle: to check the graph is cycle,use Union find
+	- Union cost: n
+	- (sorted) to insert m address ,there have n union then,the cost: mlog(m)+n+m*a(m,n)
+	-	(unsorted) use a heap ,cost: m+klog(m)
+-	the tree to find minimum demeter
