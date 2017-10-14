@@ -46,12 +46,16 @@ int main(int argc,char* argv[])
 		use = stack.size() - use;
 		deque2 = stack[use];
 
-		while(!stack.empty())
+		int tmp = 0;
+		while(1)
 		{
-			deque<string> tmp = stack.back();
+			if (stack.back()==deque1 || stack.back()==deque2)
+				++tmp;
+			if (stack.back()!=deque1 && stack.back()!=deque2)
+				queue.push(stack.back());
 			stack.pop_back();
-			if (tmp!=deque1 && tmp!=deque2)
-				queue.push(tmp);
+			if (tmp == 2)
+				break;
 		}
 
 		top = true;
@@ -100,7 +104,6 @@ int main(int argc,char* argv[])
 		fout << " " << stack[0].back();
 		stack[0].pop_back();
 	}
-
 	fin.close();
 	fout.close();
 	return 0;
