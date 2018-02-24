@@ -1,0 +1,32 @@
+add 10 L 1
+add 5 L 0
+add 6 L 1
+add 8 R 3
+add 14 L 1
+add 12 L 0
+add 1 R 2
+add 20 R 2
+add 4 L 1
+add 3 R 1
+add 9 L 1
+add 7 L 2
+add 25 R 0
+add 22 L 1
+deleteR 10
+deleteL 12
+deleteR 4
+deleteL 8
+deleteR 20
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+add 10 R 1
+add 18 L 1
+add 11 R 1
+add 2 L 1
+drop 1
+drop 1
+drop 1

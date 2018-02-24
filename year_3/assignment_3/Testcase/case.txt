@@ -1,0 +1,40 @@
+add 3029 R 3
+add 51 L 9
+add 8464 R 8
+add 28662 L 8
+add 7009 L 9
+add 21442 R 3
+add 20128 L 4
+add 480 L 0
+add 7817 L 3
+add 26953 R 8
+deleteL 21511
+deleteL 6070
+deleteR 23132
+deleteL 6714
+deleteL 20400
+deleteL 8047
+deleteR 10002
+deleteL 32653
+deleteR 11292
+deleteR 8591
+drop 26
+drop 22
+drop 14
+drop 9
+drop 18
+drop 11
+drop 24
+drop 29
+drop 4
+drop 5
+drop 14
+drop 18
+drop 11
+drop 28
+drop 10
+drop 22
+drop 28
+drop 23
+drop 7
+drop 24

@@ -1,0 +1,2020 @@
+add 8746 L 8
+add 3842 R 3
+add 11781 R 8
+add 29808 L 9
+add 26949 L 4
+add 8977 R 2
+add 22019 R 4
+add 19020 L 0
+add 4784 R 2
+add 32677 L 2
+add 16943 L 9
+add 21466 L 6
+add 5390 L 2
+add 22313 L 6
+add 13341 L 7
+add 25482 L 5
+add 1800 R 7
+add 24269 R 8
+add 12750 R 5
+add 32720 L 9
+add 14883 L 5
+add 18769 L 2
+add 8740 R 7
+add 12810 R 3
+add 30687 R 3
+add 9488 R 8
+add 29089 R 1
+add 30386 L 2
+add 15632 L 7
+add 26955 L 0
+add 15207 L 5
+add 15044 L 4
+add 3968 R 0
+add 16054 R 9
+add 12908 R 0
+add 4720 R 3
+add 18884 L 0
+add 20296 R 6
+add 18172 R 1
+add 5379 R 1
+add 31069 R 4
+add 10558 L 5
+add 17524 R 5
+add 2578 R 7
+add 11027 R 6
+add 368 R 8
+add 25405 R 1
+add 21481 R 9
+add 16782 L 8
+add 24792 R 9
+add 2822 R 4
+add 17202 R 0
+add 12854 R 6
+add 2399 L 7
+add 16708 L 1
+add 16361 L 6
+add 17483 L 4
+add 7658 L 9
+add 32750 L 8
+add 29567 L 0
+add 11847 R 0
+add 22948 L 7
+add 28789 L 3
+add 24652 L 5
+add 11635 L 1
+add 25229 L 0
+add 18178 R 4
+add 4666 R 0
+add 29639 L 7
+add 835 L 3
+add 14835 R 5
+add 21678 L 2
+add 2055 R 5
+add 22543 R 6
+add 20887 R 8
+add 6586 L 4
+add 29723 L 9
+add 15154 R 0
+add 3112 R 8
+add 32385 R 3
+add 23981 L 6
+add 31857 L 5
+add 4616 L 2
+add 6378 L 5
+add 25864 L 0
+add 12254 L 0
+add 30271 L 1
+add 31367 L 9
+add 26160 R 7
+add 8168 L 6
+add 16181 L 2
+add 5319 R 9
+add 30781 R 0
+add 11941 L 7
+add 13227 L 7
+add 27226 R 4
+add 18172 L 0
+add 12894 L 5
+add 10239 R 0
+add 14821 L 6
+add 8904 L 7
+add 6491 R 6
+add 18336 L 6
+add 3558 L 4
+add 25252 R 3
+add 24816 L 6
+add 5839 R 5
+add 24041 L 5
+add 29853 L 5
+add 11207 L 9
+add 10391 L 1
+add 11500 R 9
+add 14430 R 6
+add 879 L 0
+add 17678 L 8
+add 20750 L 2
+add 20 R 0
+add 4389 R 5
+add 31692 L 2
+add 20606 L 9
+add 21380 L 0
+add 23010 L 2
+add 24236 L 2
+add 32675 R 7
+add 20841 L 6
+add 18852 R 4
+add 24770 R 3
+add 19591 R 1
+add 19218 L 0
+add 6656 L 1
+add 5531 R 2
+add 25481 R 7
+add 30268 L 2
+add 24552 L 2
+add 19643 L 1
+add 6466 L 0
+add 20781 R 4
+add 19640 R 8
+add 17747 R 1
+add 17847 L 4
+add 5393 R 5
+add 28295 L 7
+add 30274 R 5
+add 31936 L 0
+add 21144 R 8
+add 31660 L 9
+add 9807 R 1
+add 20408 L 3
+add 5328 L 5
+add 30093 L 3
+add 20644 R 9
+add 1126 L 7
+add 9791 R 1
+add 11951 L 1
+add 4492 R 7
+add 27946 L 7
+add 21572 L 7
+add 32762 L 7
+add 6000 R 0
+add 20074 R 5
+add 19631 R 4
+add 14668 R 8
+add 21519 L 3
+add 32063 L 3
+add 29085 R 1
+add 6465 L 4
+add 27132 R 2
+add 9051 R 3
+add 16281 L 2
+add 22593 L 2
+add 4701 R 9
+add 21565 R 4
+add 8688 R 4
+add 4810 R 7
+add 30434 R 3
+add 24472 L 6
+add 20820 R 0
+add 7934 L 5
+add 15362 R 0
+add 3327 L 9
+add 6324 L 7
+add 6510 R 9
+add 14205 R 4
+add 11477 L 1
+add 7258 R 8
+add 13608 L 1
+add 3853 R 1
+add 10868 R 5
+add 32581 L 7
+add 6911 R 6
+add 15214 R 0
+add 2972 L 3
+add 712 R 9
+add 25626 R 3
+add 11153 R 2
+add 2334 L 7
+add 31843 L 5
+add 31680 R 0
+add 1052 L 8
+add 11464 R 9
+add 15841 L 2
+add 29793 R 5
+add 14116 L 2
+add 8338 L 7
+add 19378 R 8
+add 7143 R 0
+add 28717 L 4
+add 6921 L 5
+add 32138 R 3
+add 23358 R 2
+add 4193 R 9
+add 5372 R 0
+add 25913 L 3
+add 11552 L 5
+add 14096 L 2
+add 13413 L 7
+add 6093 R 8
+add 14374 L 1
+add 4712 R 7
+add 6298 L 3
+add 13541 L 4
+add 22539 L 2
+add 29813 L 2
+add 29620 R 7
+add 18519 L 5
+add 8770 R 6
+add 26714 L 6
+add 7486 L 4
+add 25094 L 2
+add 12731 R 6
+add 17361 L 2
+add 2593 R 2
+add 32764 R 8
+add 17905 L 6
+add 28896 R 7
+add 21966 L 1
+add 9934 L 1
+add 311 L 7
+add 27613 R 3
+add 18605 L 0
+add 17457 R 3
+add 21059 R 5
+add 12707 L 4
+add 1990 R 2
+add 14295 L 3
+add 21755 R 0
+add 6677 R 7
+add 22957 L 3
+add 7823 L 3
+add 13950 R 8
+add 23251 L 2
+add 11443 L 6
+add 15260 R 6
+add 26742 R 0
+add 11835 L 2
+add 19018 R 1
+add 7252 R 2
+add 12188 R 6
+add 23203 L 7
+add 25527 R 0
+add 20988 L 9
+add 22923 R 1
+add 5588 L 0
+add 25598 L 2
+add 24035 L 9
+add 9673 L 1
+add 201 R 5
+add 13066 L 3
+add 11197 L 7
+add 11794 L 4
+add 14248 R 4
+add 22043 R 9
+add 13889 L 7
+add 23015 R 8
+add 12800 R 7
+add 6517 R 8
+add 12805 L 3
+add 10582 L 1
+add 28484 R 0
+add 12102 R 2
+add 23192 L 8
+add 25355 R 1
+add 11144 L 1
+add 28631 L 6
+add 15841 R 3
+add 29079 L 8
+add 6266 L 5
+add 9974 R 3
+add 8631 L 9
+add 31743 R 6
+add 22178 L 2
+add 6818 L 1
+add 24512 R 4
+add 1416 R 8
+add 10973 L 7
+add 14072 R 3
+add 21390 R 9
+add 8384 R 3
+add 11287 R 2
+add 2909 L 7
+add 14070 R 6
+add 464 R 3
+add 25928 L 6
+add 1260 R 9
+add 2227 L 3
+add 31744 R 6
+add 10160 L 4
+add 4642 R 3
+add 22844 R 9
+add 13963 L 0
+add 2390 L 9
+add 7111 R 2
+add 6626 R 7
+add 9380 R 0
+add 19389 L 5
+add 32543 R 7
+add 18988 L 2
+add 3271 L 2
+add 9961 R 4
+add 30033 L 4
+add 8054 R 2
+add 11077 R 2
+add 13457 L 8
+add 5142 L 9
+add 712 L 9
+add 15370 L 0
+add 30629 L 1
+add 21414 R 3
+add 244 L 7
+add 30640 L 4
+add 15362 R 9
+add 17887 R 3
+add 2290 R 7
+add 20425 R 3
+add 19059 R 3
+add 27319 R 2
+add 5247 L 2
+add 30311 R 4
+add 11500 R 8
+add 19939 L 9
+add 5875 R 5
+add 31984 R 8
+add 32513 R 7
+add 22984 R 9
+add 20066 L 3
+add 5664 R 1
+add 1708 L 1
+add 2977 L 7
+add 21239 R 7
+add 18270 R 1
+add 4415 R 9
+add 29938 R 6
+add 140 R 1
+add 5444 R 7
+add 20647 R 4
+add 13868 R 7
+add 5773 L 4
+add 30568 L 0
+add 13538 L 3
+add 24224 R 2
+add 10765 L 1
+add 8047 L 1
+add 32194 R 3
+add 23977 L 4
+add 17961 L 2
+add 24404 R 3
+add 227 R 9
+add 28948 L 0
+add 22172 L 2
+add 15092 L 8
+add 24554 R 7
+add 15571 R 0
+add 14499 L 9
+add 28894 R 2
+add 11007 R 3
+add 30689 R 6
+add 3603 R 6
+add 1624 L 0
+add 11148 L 6
+add 23160 L 9
+add 11959 L 5
+add 8884 R 2
+add 21302 R 5
+add 14705 R 3
+add 21487 L 0
+add 17876 R 1
+add 2843 L 3
+add 31483 L 9
+add 23174 L 9
+add 9723 L 6
+add 24398 L 1
+add 20607 L 1
+add 14034 L 3
+add 16598 R 9
+add 17040 L 1
+add 25042 L 3
+add 30482 L 5
+add 27594 R 7
+add 26191 L 1
+add 21916 R 4
+add 28675 L 5
+add 28543 L 5
+add 25315 R 4
+add 25351 R 2
+add 28611 R 9
+add 31404 R 4
+add 11270 L 3
+add 22699 R 5
+add 4843 L 8
+add 30756 L 7
+add 3477 R 8
+add 17593 L 6
+add 6119 R 8
+add 5153 L 6
+add 11397 L 2
+add 10855 L 6
+add 19607 R 3
+add 31951 L 5
+add 18471 R 6
+add 28827 R 7
+add 29227 L 8
+add 10779 L 8
+add 14240 L 8
+add 30170 L 7
+add 13115 L 8
+add 14525 R 0
+add 24482 R 6
+add 30066 R 2
+add 2085 R 4
+add 9347 R 4
+add 7279 R 8
+add 10725 R 2
+add 9643 R 4
+add 28128 L 1
+add 23567 R 0
+add 22681 R 3
+add 20940 L 3
+add 30388 R 6
+add 25808 R 4
+add 12989 L 5
+add 15074 L 6
+add 8796 R 2
+add 1022 R 6
+add 14206 L 8
+add 11517 L 5
+add 1276 L 6
+add 8420 L 9
+add 875 R 5
+add 16766 L 9
+add 11788 L 0
+add 28674 R 8
+add 14628 L 4
+add 25846 L 4
+add 23072 L 7
+add 17039 L 9
+add 28489 L 6
+add 20287 L 1
+add 6140 L 1
+add 11825 L 3
+add 20385 R 1
+add 18908 R 9
+add 11479 R 5
+add 2299 R 6
+add 21385 L 5
+add 24717 R 7
+add 17390 R 1
+add 30119 L 0
+add 18848 R 0
+add 22582 L 7
+add 13644 R 9
+add 31764 R 0
+add 4272 R 6
+add 2033 R 0
+add 28632 L 7
+add 27137 L 3
+add 13278 R 1
+add 28785 L 2
+add 21151 R 6
+add 30731 R 4
+add 21525 R 3
+add 11673 R 5
+add 354 L 1
+add 28388 R 5
+add 2735 L 8
+add 7773 R 5
+add 98 L 6
+add 18645 L 1
+add 12645 L 2
+add 24279 L 2
+add 9066 L 9
+add 2934 L 7
+add 15224 L 2
+add 28844 L 4
+add 7198 R 2
+add 21931 L 7
+add 3104 R 3
+add 11681 L 7
+add 13186 R 2
+add 24033 R 1
+add 30260 L 6
+add 24696 R 6
+add 31437 R 4
+add 23690 L 2
+add 20763 L 8
+add 8208 L 7
+add 32623 L 0
+add 7893 L 0
+add 20210 L 8
+add 18620 L 8
+add 20064 R 2
+add 15794 L 8
+add 32765 R 2
+add 12259 R 9
+add 21162 R 4
+add 13573 R 2
+add 12115 L 0
+add 28120 R 2
+add 23353 L 9
+add 22313 L 7
+add 1221 L 6
+add 23035 L 0
+add 21473 L 6
+add 22695 L 4
+add 6158 L 1
+add 5392 L 7
+add 32175 R 6
+add 28727 L 6
+add 24897 L 0
+add 15838 R 0
+add 12916 R 4
+add 18167 L 2
+add 12910 L 5
+add 11275 R 8
+add 32655 L 4
+add 13545 R 0
+add 9878 R 6
+add 19766 R 5
+add 9210 R 5
+add 1458 L 4
+add 12752 L 5
+add 86 L 3
+add 15768 L 7
+add 16785 L 6
+add 16060 L 6
+add 2897 L 8
+add 12732 R 7
+add 13981 R 0
+add 1320 R 6
+add 1760 L 8
+add 7420 R 2
+add 15939 R 8
+add 1537 R 0
+add 23714 R 3
+add 22071 R 3
+add 31486 L 7
+add 22652 L 8
+add 13181 L 0
+add 20708 R 0
+add 2647 L 5
+add 13444 L 1
+add 26172 R 1
+add 27292 L 2
+add 26399 L 2
+add 26213 L 3
+add 24678 R 1
+add 28650 L 0
+add 30699 R 7
+add 6073 R 2
+add 32092 L 7
+add 25681 L 2
+add 1488 R 0
+add 6547 L 0
+add 17846 L 8
+add 22942 L 6
+add 5984 L 5
+add 7145 L 0
+add 9950 L 6
+add 25200 L 0
+add 27620 L 8
+add 32327 L 8
+add 236 R 5
+add 27652 R 0
+add 4827 L 5
+add 9649 L 6
+add 9924 L 1
+add 2885 R 1
+add 23473 R 2
+add 984 L 7
+add 11374 R 3
+add 2323 L 8
+add 6595 R 9
+add 15233 R 6
+add 8117 L 2
+add 14802 R 3
+add 30867 L 3
+add 3633 L 3
+add 1794 R 1
+add 27702 R 6
+add 23623 L 4
+add 32541 L 3
+add 17017 L 9
+add 31564 R 3
+add 2664 R 5
+add 22352 R 4
+add 11093 R 1
+add 20428 L 4
+add 5847 R 8
+add 30493 L 8
+add 3456 L 9
+add 23709 R 7
+add 20754 R 9
+add 8391 R 9
+add 22390 L 5
+add 25257 R 1
+add 11688 L 0
+add 10350 R 3
+add 7258 R 8
+add 2019 R 2
+add 26618 L 8
+add 13628 R 8
+add 17497 R 3
+add 3477 L 8
+add 22580 R 6
+add 32721 L 5
+add 1854 L 1
+add 12781 R 9
+add 14730 L 4
+add 14827 R 5
+add 3414 R 0
+add 2250 L 0
+add 23733 L 8
+add 2905 R 7
+add 21126 R 7
+add 22467 L 6
+add 688 L 8
+add 20513 L 3
+add 10154 R 9
+add 16760 L 7
+add 23471 R 1
+add 1007 L 1
+add 28207 L 9
+add 19485 R 0
+add 26208 R 4
+add 1728 R 9
+add 27123 L 2
+add 3907 R 3
+add 11109 R 2
+add 9935 L 1
+add 17756 L 4
+add 5352 R 0
+add 4368 R 7
+add 7104 L 5
+add 9142 L 8
+add 14785 R 9
+add 17248 R 6
+add 24331 L 4
+add 24018 R 4
+add 6343 L 5
+add 27707 R 3
+add 3498 L 9
+add 17627 L 8
+add 19967 R 3
+add 14317 L 6
+add 16133 R 6
+add 1915 R 2
+add 7309 R 2
+add 25057 L 4
+add 32029 R 1
+add 5422 L 2
+add 17403 R 1
+add 17822 L 7
+add 18935 R 9
+add 7140 L 2
+add 4294 L 4
+add 12292 L 2
+add 24139 R 3
+add 31709 R 2
+add 29738 L 8
+add 27847 R 2
+add 3437 L 2
+add 19905 L 9
+add 12078 R 4
+add 19499 R 0
+add 31354 L 4
+add 22270 R 4
+add 23793 R 9
+add 7424 L 7
+add 2759 R 0
+add 2151 R 5
+add 26678 R 0
+add 22240 L 5
+add 16774 R 0
+add 25353 L 3
+add 14381 L 4
+add 28839 R 3
+add 28858 R 3
+add 24399 R 3
+add 8324 L 4
+add 7987 L 1
+add 27484 R 7
+add 12888 R 4
+add 24749 L 2
+add 30813 R 0
+add 9421 R 2
+add 3479 R 4
+add 15985 R 2
+add 13879 L 7
+add 27007 L 1
+add 13484 R 0
+add 1973 L 1
+add 5767 R 1
+add 7390 R 3
+add 1410 R 1
+add 1931 R 1
+add 4738 R 0
+add 10372 L 0
+add 20137 L 5
+add 14971 L 6
+add 27341 R 3
+add 2205 L 4
+add 4085 R 9
+add 19987 L 4
+add 17328 R 6
+add 8600 R 2
+add 343 R 0
+add 14252 R 7
+add 19868 L 2
+add 19214 L 6
+add 31738 L 8
+add 28286 R 2
+add 13791 L 6
+add 15351 L 4
+add 8609 L 9
+add 5350 R 4
+add 23461 R 7
+add 17418 R 3
+add 24127 R 2
+add 7414 L 7
+add 1330 R 6
+add 32372 L 9
+add 8152 R 8
+add 13373 R 7
+add 4445 L 2
+add 27069 L 3
+add 24726 R 8
+add 728 R 8
+add 24911 R 1
+add 4342 R 8
+add 24366 R 9
+add 2489 L 2
+add 30333 L 3
+add 12838 R 8
+add 8565 L 8
+add 11317 R 5
+add 227 R 8
+add 3574 L 9
+add 7485 L 9
+add 12500 L 7
+add 22914 R 3
+add 19612 R 5
+add 9077 R 0
+add 17748 L 4
+add 9499 L 0
+add 9221 R 1
+add 27008 R 9
+add 20990 L 7
+add 6956 L 0
+add 11077 L 8
+add 19669 R 2
+add 10284 R 7
+add 11563 R 9
+add 1858 R 4
+add 11479 R 0
+add 22554 L 2
+add 2561 R 8
+add 23711 R 2
+add 30454 R 9
+add 14829 L 5
+add 14793 R 0
+add 13030 L 8
+add 16646 L 4
+add 30209 R 2
+add 19914 R 8
+add 13562 R 0
+add 3551 L 3
+add 6262 L 6
+add 24753 L 7
+add 31419 R 6
+add 6197 R 4
+add 31740 L 7
+add 25362 L 1
+add 18425 R 3
+add 16312 L 3
+add 6110 R 0
+add 28705 R 4
+add 27806 L 7
+add 29807 R 4
+add 32076 L 7
+add 9900 R 2
+add 12822 R 9
+add 15440 L 3
+add 4077 L 4
+add 16988 L 1
+add 514 R 0
+add 12068 L 6
+add 17828 R 8
+add 28972 L 8
+add 12830 L 4
+add 1178 R 0
+add 31137 L 3
+add 8488 L 3
+add 8558 R 2
+add 4265 L 0
+add 7851 R 0
+add 17002 L 1
+add 4783 L 4
+add 18986 R 6
+add 23724 R 6
+add 14674 R 8
+add 28668 L 4
+add 14260 R 5
+add 25981 L 3
+add 32005 R 5
+add 25535 L 5
+add 24250 R 3
+add 3315 R 7
+add 7719 L 5
+add 29402 L 1
+add 4323 R 8
+add 28713 R 0
+add 12764 R 0
+add 1046 R 1
+add 13225 R 4
+add 14351 R 5
+add 23803 L 2
+add 203 L 6
+add 24117 L 8
+add 17203 R 7
+add 31636 R 9
+add 31441 R 9
+add 27001 R 3
+add 17102 L 5
+add 8357 R 3
+add 934 R 3
+add 20109 L 2
+add 5905 R 1
+add 27159 R 2
+add 8415 R 7
+add 28494 R 6
+add 30384 L 2
+add 25854 R 5
+add 2515 L 7
+add 9525 L 2
+add 11695 L 9
+add 32273 R 8
+add 6789 R 2
+add 12916 L 7
+add 32620 L 5
+add 14951 R 6
+add 10194 L 2
+add 29014 R 0
+add 30701 L 4
+add 13427 L 0
+add 8412 L 4
+add 24024 L 3
+add 14443 L 3
+add 6466 R 5
+add 10678 R 6
+add 21891 R 4
+add 2846 L 0
+add 8691 L 8
+add 6992 L 3
+add 10635 L 6
+add 19018 R 5
+add 17782 R 8
+add 5284 L 1
+add 24365 L 4
+add 26249 R 2
+add 7816 L 6
+add 2337 R 8
+add 14917 R 5
+add 6234 R 9
+add 16877 L 1
+add 30807 L 9
+add 28206 L 7
+add 2282 R 2
+add 240 L 1
+add 15076 R 1
+add 4317 R 2
+add 32290 R 2
+add 21528 L 6
+add 4254 L 7
+add 11328 R 4
+add 22000 R 8
+add 27179 L 7
+add 23553 R 6
+add 2516 L 2
+add 23769 R 7
+add 5992 R 9
+add 14042 L 2
+add 5253 L 6
+add 19391 R 1
+add 8447 R 1
+add 19508 L 1
+add 27849 R 1
+add 30958 R 2
+add 8404 R 3
+add 9090 L 4
+add 2815 L 5
+add 2157 L 5
+add 32117 L 2
+add 18702 R 1
+add 3076 L 7
+add 10114 L 5
+add 12888 R 5
+add 32673 R 2
+add 1047 L 4
+add 8070 R 7
+add 25688 L 9
+add 26483 R 9
+add 29678 R 5
+add 19435 R 9
+add 32370 L 1
+add 18004 R 7
+add 15384 R 4
+add 16266 R 1
+add 21179 L 1
+add 23835 R 2
+add 10901 L 1
+add 9521 R 2
+add 31652 R 0
+add 30287 L 1
+add 32435 R 8
+add 10092 L 4
+add 31090 L 3
+add 6676 L 8
+add 32555 L 0
+add 27538 L 2
+add 18423 R 9
+add 4951 L 6
+add 32380 L 5
+add 27667 R 1
+add 26773 L 5
+add 12860 L 8
+add 27014 L 3
+add 15872 R 0
+add 7285 L 1
+add 30663 L 2
+add 15465 L 5
+add 3546 L 9
+add 19203 R 7
+add 5834 L 1
+add 31135 L 7
+add 24479 R 7
+add 20652 R 0
+add 30222 R 2
+add 32599 R 4
+add 24082 L 0
+add 12763 L 7
+add 8132 R 8
+add 22293 L 2
+add 17738 L 2
+add 28208 L 7
+add 18989 L 5
+add 23431 L 0
+add 13438 R 4
+add 28674 R 5
+add 25992 R 2
+add 20648 R 3
+add 29454 L 2
+add 21528 R 6
+add 23356 R 2
+add 18971 R 9
+add 29908 L 1
+add 1442 R 4
+add 27205 L 9
+add 31681 R 5
+add 10667 R 1
+add 27261 L 5
+add 19683 R 6
+add 20636 R 2
+add 25664 L 7
+add 7080 L 3
+add 4993 R 0
+add 25575 L 4
+add 25624 L 4
+add 26112 R 8
+add 24803 R 8
+add 14453 L 4
+add 20194 L 3
+add 3907 L 3
+add 29587 L 3
+add 19017 L 0
+add 9470 R 7
+add 6979 R 0
+add 10381 R 8
+add 22135 R 7
+add 32076 L 0
+add 3433 L 8
+add 25384 R 3
+deleteL 17557
+deleteR 14598
+deleteL 5177
+deleteL 6307
+deleteR 4912
+deleteL 1607
+deleteR 26013
+deleteR 12756
+deleteL 31239
+deleteL 15016
+deleteR 3164
+deleteR 27329
+deleteR 23094
+deleteR 11556
+deleteR 27740
+deleteR 17279
+deleteR 6540
+deleteL 32525
+deleteR 9848
+deleteR 186
+deleteL 9998
+deleteR 17544
+deleteL 1276
+deleteL 31793
+deleteR 20340
+deleteR 32014
+deleteR 14380
+deleteR 17719
+deleteR 25002
+deleteL 23532
+deleteR 25278
+deleteR 4403
+deleteL 9040
+deleteR 24771
+deleteR 30299
+deleteL 31777
+deleteL 5434
+deleteR 16393
+deleteL 24611
+deleteR 6415
+deleteR 2033
+deleteR 7046
+deleteL 1318
+deleteR 21153
+deleteL 48
+deleteL 2776
+deleteL 3819
+deleteL 7053
+deleteR 27496
+deleteL 29680
+deleteR 2029
+deleteR 28448
+deleteL 9276
+deleteR 13203
+deleteR 18456
+deleteR 8631
+deleteL 18182
+deleteL 5593
+deleteL 12625
+deleteR 327
+deleteR 22096
+deleteR 7857
+deleteR 15339
+deleteL 17877
+deleteR 12124
+deleteR 8796
+deleteL 21299
+deleteL 20990
+deleteL 20125
+deleteL 11757
+deleteR 485
+deleteL 17265
+deleteR 25659
+deleteL 16335
+deleteR 28341
+deleteL 21360
+deleteR 14483
+deleteR 20543
+deleteR 10439
+deleteR 1875
+deleteR 24757
+deleteL 10702
+deleteR 17463
+deleteL 12549
+deleteR 17124
+deleteR 4577
+deleteR 18066
+deleteL 16261
+deleteL 27417
+deleteR 16688
+deleteL 25434
+deleteL 24421
+deleteL 12160
+deleteR 11338
+deleteR 2182
+deleteR 27471
+deleteR 9466
+deleteL 7183
+deleteL 15104
+deleteR 11387
+deleteR 25497
+deleteL 5685
+deleteR 17189
+deleteL 27450
+deleteL 6951
+deleteR 5572
+deleteL 10569
+deleteL 20335
+deleteR 30624
+deleteR 5018
+deleteL 560
+deleteR 4368
+deleteR 21939
+deleteR 24296
+deleteL 2966
+deleteR 30889
+deleteR 18245
+deleteL 17842
+deleteL 6312
+deleteR 12249
+deleteR 26605
+deleteR 3411
+deleteL 20105
+deleteR 25044
+deleteL 377
+deleteL 15094
+deleteR 12494
+deleteR 11231
+deleteL 104
+deleteL 11294
+deleteR 32258
+deleteL 24023
+deleteL 14447
+deleteR 32544
+deleteR 23586
+deleteR 2730
+deleteL 30964
+deleteR 19364
+deleteR 21794
+deleteR 26844
+deleteR 29077
+deleteR 11048
+deleteL 9063
+deleteL 772
+deleteR 26274
+deleteR 4476
+deleteL 20043
+deleteL 14413
+deleteL 13727
+deleteR 30023
+deleteR 5788
+deleteR 3317
+deleteL 10691
+deleteL 18560
+deleteR 13085
+deleteL 19153
+deleteR 8316
+deleteL 16630
+deleteL 23811
+deleteL 29127
+deleteL 32232
+deleteR 28873
+deleteR 11385
+deleteR 30802
+deleteL 29021
+deleteL 12014
+deleteR 17693
+deleteR 23554
+deleteR 2531
+deleteR 20399
+deleteL 21121
+deleteR 505
+deleteR 6836
+deleteR 11561
+deleteL 21674
+deleteL 26479
+deleteL 28611
+deleteL 32716
+deleteR 15509
+deleteR 8751
+deleteL 21042
+deleteL 1759
+deleteL 22701
+deleteR 12568
+deleteL 23770
+deleteL 249
+deleteR 4438
+deleteL 7326
+deleteL 8391
+deleteL 29833
+deleteR 30053
+deleteL 26438
+deleteR 6586
+deleteL 18510
+deleteR 5797
+deleteR 20013
+deleteR 29349
+deleteR 11232
+deleteR 13908
+deleteR 22913
+deleteR 6706
+deleteR 20518
+deleteL 16804
+deleteL 15622
+deleteR 10045
+deleteR 28637
+deleteL 7739
+deleteL 2194
+deleteR 3413
+deleteL 10263
+deleteR 18100
+deleteR 10386
+deleteR 8511
+deleteR 8378
+deleteL 14107
+deleteR 13955
+deleteR 28018
+deleteR 1277
+deleteL 10612
+deleteR 6521
+deleteL 22172
+deleteL 19439
+deleteL 8757
+deleteR 30364
+deleteL 4124
+deleteL 20719
+deleteL 19655
+deleteR 29094
+deleteR 24710
+deleteL 15413
+deleteL 10249
+deleteR 15719
+deleteL 13859
+deleteL 15175
+deleteL 717
+deleteL 31809
+deleteR 2926
+deleteR 2437
+deleteL 18522
+deleteR 28844
+deleteR 7064
+deleteR 18590
+deleteL 7400
+deleteR 32179
+deleteL 26372
+deleteR 10520
+deleteL 18983
+deleteL 30581
+deleteR 1996
+deleteR 25292
+deleteR 31672
+deleteR 17317
+deleteR 22074
+deleteR 32104
+deleteR 19378
+deleteR 18954
+deleteL 23888
+deleteR 26859
+deleteL 7966
+deleteR 13567
+deleteL 8001
+deleteL 26157
+deleteR 21116
+deleteL 500
+deleteR 10741
+deleteL 16212
+deleteL 13884
+deleteL 25068
+deleteL 31625
+deleteL 20576
+deleteL 23365
+deleteR 27133
+deleteL 14028
+deleteR 24480
+deleteL 12146
+deleteR 5075
+deleteL 10180
+deleteL 17978
+deleteL 27152
+deleteL 3630
+deleteR 6183
+deleteL 26791
+deleteR 18529
+deleteR 23903
+deleteR 29666
+deleteL 32564
+deleteR 6684
+deleteL 19406
+deleteR 15765
+deleteR 11907
+deleteR 7658
+deleteR 10871
+deleteL 21269
+deleteL 28680
+deleteL 11755
+deleteR 24937
+deleteL 488
+deleteR 19084
+deleteR 15407
+deleteR 20550
+deleteR 27597
+deleteR 23214
+deleteR 7998
+deleteL 32454
+deleteL 15154
+deleteR 11101
+deleteL 11921
+deleteR 7475
+deleteR 10172
+deleteL 24159
+deleteL 12054
+deleteR 21742
+deleteR 19139
+deleteR 9421
+deleteL 4015
+deleteL 26857
+deleteR 17362
+deleteR 1940
+deleteR 30131
+deleteR 9771
+deleteL 11563
+deleteR 32757
+deleteL 6508
+deleteL 9295
+deleteR 24641
+deleteL 24582
+deleteL 29336
+deleteL 22021
+deleteR 2621
+deleteL 2864
+deleteR 13544
+deleteR 27023
+deleteL 4218
+deleteL 32431
+deleteL 7300
+deleteR 31045
+deleteL 17673
+deleteR 10773
+deleteL 2693
+deleteL 3090
+deleteR 27437
+deleteR 6087
+deleteR 29049
+deleteL 26101
+deleteL 3040
+deleteR 25982
+deleteL 4578
+deleteR 10369
+deleteL 6732
+deleteL 3271
+deleteR 1720
+deleteL 17246
+deleteR 26707
+deleteL 31619
+deleteL 8675
+deleteL 13510
+deleteL 27400
+deleteL 31848
+deleteR 6337
+deleteR 6664
+deleteR 20275
+deleteL 28542
+deleteL 166
+deleteL 4104
+deleteL 24017
+deleteL 21156
+deleteR 6999
+deleteR 25532
+deleteL 12433
+deleteL 6664
+deleteR 29582
+deleteR 4785
+deleteR 13912
+deleteR 22706
+deleteL 18809
+deleteL 7044
+deleteR 1982
+deleteL 14586
+deleteL 20283
+deleteL 7786
+deleteL 2959
+deleteL 17677
+deleteR 13674
+deleteR 19880
+deleteL 27468
+deleteL 32620
+deleteL 1935
+deleteR 11803
+deleteR 22439
+deleteR 19309
+deleteR 22697
+deleteR 10162
+deleteR 7434
+deleteR 9656
+deleteL 16297
+deleteR 26095
+deleteR 2064
+deleteR 11467
+deleteR 9207
+deleteL 2154
+deleteR 6666
+deleteL 31095
+deleteL 23021
+deleteL 9038
+deleteR 3452
+deleteL 18273
+deleteR 3927
+deleteL 4058
+deleteL 10910
+deleteL 28034
+deleteR 2041
+deleteR 3297
+deleteR 27612
+deleteL 9895
+deleteL 10761
+deleteR 12106
+deleteL 29270
+deleteR 10737
+deleteR 23216
+deleteR 8849
+deleteL 19040
+deleteL 4949
+deleteL 10893
+deleteL 14660
+deleteR 2
+deleteR 7198
+deleteR 21042
+deleteL 19846
+deleteR 889
+deleteR 9062
+deleteR 32421
+deleteL 29072
+deleteR 23989
+deleteR 1697
+deleteR 28129
+deleteR 28715
+deleteL 13530
+deleteR 18963
+deleteL 23378
+deleteR 7479
+deleteR 8383
+deleteL 4436
+deleteR 15452
+deleteL 30248
+deleteL 20337
+deleteL 26579
+deleteR 19669
+deleteR 4739
+deleteL 31153
+deleteL 22864
+deleteL 27526
+deleteL 25701
+deleteL 10098
+deleteR 23137
+deleteL 18095
+deleteL 18685
+deleteL 17500
+deleteL 238
+deleteR 22656
+deleteL 26893
+deleteL 1100
+deleteL 3253
+deleteR 13216
+deleteL 26988
+deleteL 6097
+deleteR 16326
+deleteL 8106
+deleteR 27527
+deleteR 12464
+deleteL 1800
+deleteL 1450
+deleteL 24028
+deleteR 22113
+deleteL 29362
+deleteL 11429
+deleteL 7293
+deleteL 2704
+deleteL 32467
+deleteL 17935
+deleteR 24979
+deleteL 15773
+deleteL 11211
+deleteL 19026
+deleteL 1497
+deleteL 4893
+deleteR 26320
+deleteR 9550
+deleteR 4381
+deleteL 30295
+deleteL 17002
+deleteR 13011
+deleteL 6850
+deleteL 32455
+deleteL 32502
+deleteR 2856
+deleteR 31296
+deleteL 9374
+deleteL 25383
+deleteL 8072
+deleteR 18338
+deleteL 17728
+deleteL 25728
+deleteR 9888
+deleteL 11271
+deleteR 30661
+deleteR 8156
+deleteR 22802
+deleteL 547
+deleteR 12664
+deleteR 8678
+deleteR 32245
+deleteL 18107
+deleteL 14939
+deleteR 32673
+deleteR 18259
+deleteL 22828
+deleteL 29089
+deleteL 16098
+deleteL 32426
+deleteR 3044
+deleteR 25139
+deleteR 3793
+deleteR 363
+deleteL 1255
+deleteR 10028
+deleteR 20587
+deleteR 3454
+deleteR 28235
+deleteR 8285
+deleteL 28419
+deleteR 23996
+deleteR 30397
+deleteR 30409
+deleteL 2236
+deleteL 5747
+deleteR 8698
+deleteR 28969
+deleteL 26384
+deleteR 485
+deleteL 26967
+deleteR 6250
+deleteL 18253
+deleteR 7370
+deleteR 11322
+deleteR 11306
+deleteR 29459
+deleteL 29385
+deleteL 28830
+deleteR 26431
+deleteL 10455
+deleteR 19203
+deleteL 29587
+deleteR 5168
+deleteL 21603
+deleteL 9353
+deleteL 2491
+deleteL 29114
+deleteL 5971
+deleteL 737
+deleteL 20430
+deleteR 26444
+deleteL 8602
+deleteR 2692
+deleteR 11031
+deleteR 2443
+deleteL 23035
+deleteL 28003
+deleteL 6645
+deleteR 28367
+deleteR 22160
+deleteL 10078
+deleteR 21595
+deleteR 21412
+deleteR 9543
+deleteR 2763
+deleteL 15440
+deleteL 3915
+deleteR 25695
+deleteR 7413
+deleteR 7791
+deleteR 22582
+deleteL 10991
+deleteL 17050
+deleteR 17000
+deleteL 22671
+deleteR 16736
+deleteL 15468
+deleteR 19326
+deleteR 4785
+deleteR 10735
+deleteR 29584
+deleteR 26887
+deleteR 5549
+deleteL 31020
+deleteL 5667
+deleteL 22256
+deleteL 455
+deleteL 32381
+deleteL 944
+deleteR 11830
+deleteL 23799
+deleteL 15515
+deleteL 2491
+deleteR 1389
+deleteL 14184
+deleteL 12819
+deleteR 28729
+deleteR 24893
+deleteR 8188
+deleteL 29127
+deleteL 22038
+deleteR 29920
+deleteL 26822
+deleteR 2923
+deleteL 23982
+deleteL 12965
+deleteL 15247
+deleteL 17417
+deleteR 10580
+deleteL 11377
+deleteR 32338
+deleteL 7805
+deleteR 10190
+deleteR 17464
+deleteR 1983
+deleteR 13305
+deleteL 12502
+deleteR 11400
+deleteL 9148
+deleteL 23682
+deleteR 29083
+deleteL 14591
+deleteR 26591
+deleteL 10097
+deleteL 10558
+deleteL 32464
+deleteL 22517
+deleteL 9204
+deleteR 13653
+deleteL 17730
+deleteL 23167
+deleteL 31114
+deleteL 28268
+deleteL 17968
+deleteR 32048
+deleteR 20618
+deleteL 21631
+deleteL 16010
+deleteL 2416
+deleteL 2717
+deleteR 2945
+deleteR 20178
+deleteL 26843
+deleteL 19263
+deleteL 10200
+deleteL 11169
+deleteL 22979
+deleteR 20546
+deleteR 19167
+deleteL 7712
+deleteR 29610
+deleteR 6731
+deleteL 3938
+deleteL 21647
+deleteL 31689
+deleteR 25939
+deleteR 17958
+deleteR 705
+deleteR 2444
+deleteL 28967
+deleteL 606
+deleteL 21149
+deleteL 31507
+deleteR 6633
+deleteL 30263
+deleteL 9375
+deleteR 14770
+deleteL 16525
+deleteL 8013
+deleteL 8277
+deleteL 20082
+deleteL 860
+deleteL 17203
+deleteL 5347
+deleteL 18063
+deleteL 18036
+deleteL 15344
+deleteL 10624
+deleteR 26615
+deleteL 3142
+deleteL 5244
+deleteR 24054
+deleteR 13777
+deleteL 7703
+deleteL 30023
+deleteL 23334
+deleteR 17652
+deleteL 1152
+deleteR 24755
+deleteR 4994
+deleteL 24683
+deleteL 20462
+deleteR 16277
+deleteL 13200
+deleteL 32248
+deleteL 12578
+deleteL 15799
+deleteR 25198
+deleteL 654
+deleteR 25010
+deleteR 30297
+deleteL 21064
+deleteL 22230
+deleteL 23686
+deleteL 28843
+deleteL 8420
+deleteR 19371
+deleteL 26204
+deleteL 27733
+deleteL 2071
+deleteL 20125
+deleteL 26181
+deleteR 32240
+deleteR 24141
+deleteL 28274
+deleteL 3622
+deleteR 31626
+deleteL 26372
+deleteR 12192
+deleteL 21304
+deleteL 14629
+deleteR 29521
+deleteL 12500
+deleteL 13960
+deleteL 5432
+deleteL 21083
+deleteL 8047
+deleteL 23927
+deleteL 21805
+deleteR 4571
+deleteL 31748
+deleteR 31291
+deleteR 20962
+deleteL 3746
+deleteR 11995
+deleteR 1116
+deleteL 29736
+deleteL 21779
+deleteR 27760
+deleteR 16696
+deleteL 327
+deleteR 20901
+deleteR 27125
+deleteR 7296
+deleteR 14200
+deleteR 20834
+deleteR 25036
+deleteR 20664
+deleteR 14953
+deleteL 21098
+deleteL 26638
+deleteL 24507
+deleteR 20413
+deleteR 9329
+deleteR 3846
+deleteR 23349
+deleteL 27529
+deleteR 22844
+deleteL 23479
+deleteR 32039
+deleteR 3288
+deleteR 1320
+deleteR 2642
+deleteL 4199
+deleteL 27176
+deleteR 20388
+deleteL 8897
+deleteR 10525
+deleteL 28139
+deleteL 21426
+deleteL 23839
+deleteL 11591
+deleteR 775
+deleteR 20586
+deleteR 22077
+deleteR 11573
+deleteR 12630
+deleteR 10614
+deleteL 5151
+deleteR 3086
+deleteR 2598
+deleteR 14231
+deleteL 23164
+deleteR 30794
+deleteL 25786
+deleteR 26911
+deleteR 20290
+deleteR 13365
+deleteR 27335
+deleteL 12917
+deleteR 28432
+deleteR 11891
+deleteL 29944
+deleteR 20116
+deleteR 20922
+deleteL 27254
+deleteL 14187
+deleteL 20364
+deleteR 16072
+deleteL 14601
+deleteL 15922
+deleteL 32512
+deleteR 4599
+deleteR 16585
+deleteR 14803
+deleteL 3750
+deleteL 28599
+deleteR 22182
+deleteR 7112
+deleteL 6346
+deleteL 18859
+deleteR 9831
+deleteR 768
+deleteL 28875
+deleteR 13100
+deleteL 11043
+deleteL 30812
+deleteR 17309
+deleteR 1479
+deleteR 30665
+deleteR 31539
+deleteR 2117
+deleteL 21946
+deleteR 20377
+deleteR 24014
+deleteL 16480
+deleteL 13947
+deleteR 3753
+deleteR 29164
+deleteR 2204
+deleteR 20273
+deleteR 25185
+deleteR 1343
+deleteR 31037
+deleteL 16184
+deleteL 20990
+deleteL 11757
+deleteR 22170
+deleteL 21154
+deleteR 5907
+deleteR 26385
+deleteL 4509
+deleteL 1713
+deleteR 17923
+deleteL 32055
+deleteR 6215
+deleteR 24157
+deleteL 18057
+deleteL 19171
+deleteL 30249
+deleteL 1748
+deleteL 7216
+deleteR 17675
+deleteL 17644
+deleteR 19445
+deleteL 32475
+deleteR 22425
+deleteR 27851
+deleteR 23765
+deleteR 17214
+deleteR 4586
+deleteL 13587
+deleteR 24635
+deleteR 4963
+deleteL 9041
+deleteR 9386
+deleteL 22819
+deleteR 30503
+deleteL 10132
+deleteR 12933
+deleteR 23358
+deleteL 11450
+deleteL 17262
+deleteR 17968
+deleteL 3951
+deleteL 20770
+deleteR 4364
+deleteR 2122
+deleteL 2128
+deleteR 22713
+deleteL 23696
+deleteR 774
+deleteL 26284
+deleteL 22442
+deleteL 12433
+deleteR 4779
+deleteR 19970
+deleteL 6776
+deleteL 12953
+deleteL 9748
+deleteL 10504
+deleteL 3703
+deleteR 20389
+deleteR 20274
+deleteR 15910
+deleteR 31313
+deleteR 14504
+deleteL 9093
+deleteR 5111
+deleteR 1667
+deleteR 12041
+deleteL 27815
+deleteR 9675
+deleteL 5597
+deleteL 8481
+deleteL 10433
+deleteL 26663
+deleteR 28165
+deleteL 5822
+deleteL 23315
+deleteR 7492
+deleteR 12276
+deleteL 28066
+deleteL 11377
+deleteR 31116
+deleteR 8312
+deleteL 26116
+deleteR 23489
+deleteL 6176
+deleteR 16560
+deleteL 32526
+deleteR 32382
+deleteR 16213
+deleteR 13972
+deleteR 9053
+deleteR 4407
+deleteR 30002
+deleteL 1386
+deleteR 9605
+deleteL 22544
+deleteR 25588
+deleteR 5714
+deleteR 3211
+deleteL 3904
+deleteL 3722
+deleteR 4283
+deleteR 12392
+deleteL 27538
+deleteR 21785
+deleteL 747
+deleteR 9869
+deleteL 27365
+deleteR 18809
+deleteR 23163
+deleteR 32345
+deleteL 29868
+deleteL 21430
+deleteR 11480
+deleteR 19876
+deleteR 19054
+deleteL 9872
+deleteL 20420
+deleteL 3384
+deleteL 18502
+deleteR 1019
+deleteL 16851
+deleteR 17747
+deleteR 30052
+deleteR 20896
+deleteR 25327
+deleteR 2599
+deleteR 25739
+deleteL 32090
+deleteR 31956
+deleteR 18522
+deleteL 25745
+deleteR 12730
+deleteR 7060
+deleteR 24966
+deleteR 226
+deleteL 23171
+deleteR 13844
+deleteR 6329
+deleteL 20989
+deleteL 31023
+deleteR 9869
+deleteL 20214
+deleteR 7669
+deleteL 18792
+deleteL 29452
+deleteL 4018
+deleteR 18674
+deleteL 13712
+deleteL 26099
+deleteR 27992
+deleteL 5550
+deleteR 6970
+deleteR 30326
+deleteL 11718
+deleteL 13816
+drop 22
+drop 14
+drop 3
+drop 16
+drop 11
+drop 6
+drop 25
+drop 20
+drop 10
+drop 9
+drop 30
+drop 4
+drop 21
+drop 14
+drop 2
+drop 5
+drop 20
+drop 7
+drop 14
+drop 15

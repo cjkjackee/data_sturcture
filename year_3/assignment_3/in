@@ -1,0 +1,7 @@
+add 10 R 0
+add 20 R 0
+add 30 R 0
+add 25 R 0
+drop 1
+deleteR 20
+drop 1
